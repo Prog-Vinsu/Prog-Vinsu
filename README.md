@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Vincenzo,
-I'm currently studying Computer Science at Ufes - São Mateus
+I'm currently studying Computer Science at Ufes - São Mateus <> \n </>
 I'm currently working at @AdaptiOficial as a trainee.
 
 
