@@ -19,7 +19,6 @@ I'm currently working at @AdaptiOficial as a trainee.
 <a href="https://github.com/iuricode" title="Perfil do Iuri">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prog-Vinsu&theme=dracula&show_icons=true" />
 </a>
-
 <a href="https://github.com/Prog-Vinsu">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-Vinsu&hide=html&layout=compact&theme=dracula" alt="Card Star" align="right" width="400px" min-width="300px">
 </a>
