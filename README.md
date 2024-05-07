@@ -16,7 +16,7 @@ I'm currently working at @AdaptiOficial as a trainee.
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
 
-<table cellpadding="0px">
+<table cellpadding="0" style="border: 0px solid transparent;">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=Prog-Vinsu&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
@@ -24,6 +24,11 @@ I'm currently working at @AdaptiOficial as a trainee.
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-Vinsu&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
   </tr>
 </table>
+
+| My GitHub Stats | Top Languages |
+| --- | --- |
+| !My GitHub Stats | !Top Languages |
+
 
 ## Onde me encontrar
 
