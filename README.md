@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 My name is Vincenzo,
-I'm currently studying Computer Science at Ufes - São Mateus
+I'm currently studying Computer Science at Ufes - São Mateus \n
 I'm currently working at @AdaptiOficial as a trainee.
 
 
-<a href="https://github.com/felicio-almd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-Vinsu&hide=html&layout=compact&theme=dracula" alt="Card Star" align="right" width="400px" min-width="300px"></a>
+<a href="https://github.com/Prog-Vinsu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-Vinsu&hide=html&layout=compact&theme=dracula" alt="Card Star" align="right" width="400px" min-width="300px"></a>
 <!--
 **Prog-Vinsu/Prog-Vinsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
