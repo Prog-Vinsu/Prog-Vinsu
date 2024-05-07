@@ -25,11 +25,6 @@ I'm currently working at @AdaptiOficial as a trainee.
   </tr>
 </table>
 
-| My GitHub Stats | Top Languages |
-| --- | --- |
-| !My GitHub Stats | !Top Languages |
-
-
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Vincenzo_Tognere_Polonini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincenzo-tognere-polonini-5497411bb/)](https://www.linkedin.com/in/vincenzo-tognere-polonini-5497411bb/)
