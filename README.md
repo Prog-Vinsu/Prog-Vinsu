@@ -16,14 +16,11 @@ I'm currently working at @AdaptiOficial as a trainee.
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
 
-<div display="flex">
-  <a href="https://github.com/iuricode" title="Perfil do Iuri">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prog-Vinsu&theme=dracula&show_icons=true" />
-  </a>
-  
-  <a href="https://github.com/Prog-Vinsu">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-Vinsu&hide=html&layout=compact&theme=dracula" alt="Card Star" width="400px" align="right" min-width="300px">
-  </a>
+<div align="center">
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Prog-Vinsu&theme=dracula&show_icons=true" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-Vinsu&hide=html&layout=compact&theme=dracula" />
+  </div>
 </div>
   
 ## Onde me encontrar
