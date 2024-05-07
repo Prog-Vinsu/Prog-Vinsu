@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Vincenzo,
+I'm currently studying Computer Science at Ufes - São Mateus
+I'm currently working at @AdaptiOficial as a trainee
+
 <!--
 **Prog-Vinsu/Prog-Vinsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
