@@ -2,7 +2,7 @@
 
 
 My name is Vincenzo,
-I'm currently studying Computer Science at Ufes  <a href="https://github.com/Prog-Vinsu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-Vinsu&hide=html&layout=compact&theme=dracula" alt="Card Star" align="right" width="400px" min-width="300px"></a>
+I'm currently studying Computer Science at Ufes  <a href="https://github.com/Prog-Vinsu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-Vinsu&hide=html&layout=compact&theme=dracula" alt="Card Star" align="right" width="400px" min-width="300px"></a>  
 I'm currently working at @AdaptiOficial as a trainee.  
 
 
