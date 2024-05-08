@@ -16,14 +16,11 @@ I'm currently working at @AdaptiOficial as a trainee.
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
 
-<table cellpadding="0" style="border: 0px solid transparent;">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=Prog-Vinsu&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-Vinsu&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/Prog-Vinsu/Prog-Vinsu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prog-Vinsu&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-Vinsu&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML"/></td>
+</div>
 
 ## Onde me encontrar
 
