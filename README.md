@@ -17,7 +17,7 @@ I'm currently working at @AdaptiOficial as a trainee.
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
 
 <div align="left">
-  <a href="https://github.com/Prog-Vinsu/Prog-Vinsu">
+  <a href="https://github.com/Prog-Vinsu/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prog-Vinsu&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/>  
   </br>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-Vinsu&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML"/>
