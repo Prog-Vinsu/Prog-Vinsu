@@ -2,7 +2,7 @@
 
 My name is Vincenzo,
 I'm currently studying Computer Science at Ufes.  
-I'm currently working at @AdaptiOficial as a trainee.  
+I'm currently working at @AdaptiOficial as development advisor.  
 
 ## My Skills
 
