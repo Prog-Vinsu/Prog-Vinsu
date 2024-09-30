@@ -19,10 +19,9 @@ I'm currently working at @AdaptiOficial as development advisor.
 <div align="left">
   <a href="https://github.com/Prog-Vinsu/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prog-Vinsu&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/>  
-  </br>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-Vinsu&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&include_all_commits=true"/>
+  
+  <img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-Vinsu&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&include_all_commits=true"/>
 </div>
-
 
 
 
