@@ -6,7 +6,7 @@ I'm currently working at @AdaptiOficial as development advisor.
 
 ## My Skills
 
-**Aplicações e dados**
+**Applications and Data**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
@@ -26,7 +26,7 @@ I'm currently working at @AdaptiOficial as development advisor.
 
 
 
-## Onde me encontrar
+## Where to find me
 
 <p align="left">
   <a href="mailto:tognerepoloniniv@gmail.com" title="Gmail">
