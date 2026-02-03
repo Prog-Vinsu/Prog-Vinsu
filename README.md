@@ -2,7 +2,6 @@
 
 My name is Vincenzo,
 I'm currently studying Computer Science at Ufes.  
-I'm currently working at @AdaptiOficial as Project Manager.  
 
 ## My Skills
 **Applications and Data**
